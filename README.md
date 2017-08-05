@@ -28,12 +28,11 @@ A mini-project for Computer Graphics semester course developed primarily for fam
 ### Dijkstra
 ![dijkstra](https://cloud.githubusercontent.com/assets/12759088/26484490/0f3c9ef8-4210-11e7-9d0d-8b253aa77033.jpg)
 
-## Team
+## Contributors
 
 * [Vivek Patel](https://github.com/Necrote) 
 * [Manan Kalra](https://github.com/manankalra) 
-* [Raghav Garg](https://github.com/gargraghav) 
 
 ## License
 
-#### MIT
+### ![MIT](https://github.com/manankalra/AlgoLucidator/blob/master/LICENSE)
